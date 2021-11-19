@@ -1,2 +1,4 @@
 # Static-Portfolio
-An exciting journey to master SCSS
+## An exciting journey to master SCSS
+```
+html . scss
