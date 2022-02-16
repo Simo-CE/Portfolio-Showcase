@@ -6395,7 +6395,7 @@ body a:active {
   -webkit-box-align: baseline;
       -ms-flex-align: baseline;
           align-items: baseline;
-  background: url(fake_db/profile.png) no-repeat center;
+  background: url(https://simo-ce.github.io/Portfolio-Showcase/fake_db/profile.png) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
